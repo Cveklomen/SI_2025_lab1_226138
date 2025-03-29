@@ -1,0 +1,16 @@
+*   9a5cb23 (HEAD -> master, origin/master, origin/HEAD) Merge branch '2-remove-a-task-by-name' opsto merge pravenje preko comand line da ne e preko kopce neli samo 2 pd 3 da su ss kopce na gi
+thub
+|\
+| * d85a208 (origin/2-remove-a-task-by-name, 2-remove-a-task-by-name) Implementacija za brisenje spored ime
+* |   3390257 Merge pull request #11 from Cveklomen/8-mark-a-task-as-completed-by-name
+|\ \
+| * | 16e6e6e (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implementacija za zavrseni spored ime
+| |/
+* |   6087502 Merge pull request #10 from Cveklomen/3-list-tasks-sorted-by-name
+|\ \
+| |/
+|/|
+| * 26b6684 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Implementacija na sortiranje po ime
+|/
+* 406887d (origin/7-count-tasks-per-category) Add starter code
+* f559546 Initial commit
