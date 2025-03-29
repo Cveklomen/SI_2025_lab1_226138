@@ -63,7 +63,7 @@ class TaskManager {
     // MISSING FEATURES:
 
     // 1. Remove a task by name
-    public void removeTask(String name) {
+ // TODO: Implement sorting logic    public void removeTask(String name) {
         // TODO: Implement removal logic
     }
 
@@ -75,7 +75,7 @@ class TaskManager {
 
     // 3. List tasks sorted by name
     public void sortTasksByName() {
-        // TODO: Implement sorting logic
+        tasks.sort(Comparator.comparing(Task::getName));
     }
 
     // 4. Sort tasks by priority
