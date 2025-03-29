@@ -28,3 +28,17 @@ $ nano logs.txt
 git log --oneline --graph --all
 $ nano logs.txt
 
+$ git add 226138.txt logs.txt
+$ git commit -m "Final commit"
+$ git push origin master
+////////////////////////////////////////////////////////
+3
+//////////////////////////////////////////////////
+$ git clone https://github.com/Cveklomen/SI_2025_lab1_151020.git
+$ cd SI_2025_lab1_151020
+$ nano 226138.txt
+$ git add 226138.txt
+$ git commit -m "Add file"
+$ git push origin master
+
+
